@@ -11,6 +11,8 @@ features
 [![open in Codesandbox](../media/codesandbox.svg)](https://codesandbox.io/s/github/MicroWebStacks/astro-examples/tree/main/23_remote-markdown)
 [![open in Gitpod](../media/gitpod.svg)](https://gitpod.io/?on=gitpod#https://github.com/MicroWebStacks/astro-examples/tree/main/23_remote-markdown)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/MicroWebStacks/astro-examples)
+
 ## references
 * Astro docs : https://docs.astro.build/en/guides/markdown-content/#fetching-remote-markdown
 * https://github.com/natemoo-re/astro-remote
