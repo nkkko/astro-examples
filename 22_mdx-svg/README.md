@@ -14,6 +14,8 @@ Note :
 [![open in Codesandbox](../media/codesandbox.svg)](https://codesandbox.io/s/github/MicroWebStacks/astro-examples/tree/main/22_mdx-svg)
 [![open in Gitpod](../media/gitpod.svg)](https://gitpod.io/?on=gitpod#https://github.com/MicroWebStacks/astro-examples/tree/main/22_mdx-svg)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/MicroWebStacks/astro-examples)
+
 ## references
 * github issue https://github.com/withastro/astro/issues/5796#issuecomment-1374766914
 * Stackoverflow https://stackoverflow.com/questions/73306060/title-is-undefined-while-generating-sitemap-in-astro
