@@ -701,6 +701,8 @@ simple Astro example for integration of a Kute.js morph
 
 [![open in Gitpod](./media/gitpod.svg)](https://gitpod.io/?on=gitpod#https://github.com/MicroWebStacks/astro-examples/tree/main/55_revealjs)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/MicroWebStacks/astro-examples)
+
 
 # ideas
 * glob import of a list of Astro components
